@@ -1,13 +1,6 @@
 
 /**
- *
- * @author Felix Gallardo
- * ID: 108496237
- * Homework #3
- * CSE 214: Recitation Section 1
- * Recitation TA: Mohammad Mahdi Javanmard
- * Grading TA: Jian Xu
- *
+ * 
  * The Analyzer class imports the scanner class, creates a scanner object and
  * later prompts the user for information, assigning that information to the
  * request, floorNum, numOfElevators and simLength variables. When the user

@@ -1,13 +1,6 @@
 
 /**
  *
- * @author Felix Gallardo
- * ID: 108496237
- * Homework #3
- * CSE 214: Recitation Section 1
- * Recitation TA: Mohammad Mahdi Javanmard
- * Grading TA: Jian Xu
- *
  * The RequestQueue method creates the linked lists and holds the methods which allow
  * us to utilize the linked list. Among those methods are the enqueue, dequeue, size,
  * peek, isEmpty and toString methods.

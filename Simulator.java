@@ -3,13 +3,6 @@ import java.text.NumberFormat;
 
 /**
  *
- * @author Felix Gallardo
- * ID: 108496237
- * Homework #3
- * CSE 214: Recitation Section 1
- * Recitation TA: Mohammad Mahdi Javanmard
- * Grading TA: Jian Xu
- *
  * The Simulator class creates an array of elevators. It then has a method, sim, which
  * takes a request, number of floors, numbre of elevators and the length of the sim. Afterwards,
  * it runs the sim method which populates the elevator array based on the number of elevators,

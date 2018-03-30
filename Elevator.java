@@ -1,13 +1,6 @@
 
 /**
  *
- * @author Felix Gallardo
- * ID: 108496237
- * Homework #3
- * CSE 214: Recitation Section 1
- * Recitation TA: Mohammad Mahdi Javanmard
- * Grading TA: Jian Xu
- *
  * The Elevator class is the class which holds the currentfloor, elevatorState, a request
  * object and the different kinds of elevatorStates, including IDLE, TO_SOURCE and TO_DESTINATION.
  * As well as these variables, it holds the Elevator method which sets the Linked List we create

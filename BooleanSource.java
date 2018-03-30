@@ -1,12 +1,5 @@
 /**
  *
- * @author Felix Gallardo
- * ID: 108496237
- * Homework #3
- * CSE 214: Recitation Section 1
- * Recitation TA: Mohammad Mahdi Javanmard
- * Grading TA: Jian Xu
- *
  * The BooleanSource class checks to see if the probability entered is greater than or equal to 0 and
  * checks whether a request has arrived by generating a number, comparing it to the probability and
  * returning true or false depending on whether the generated number is smaller than the probability.

@@ -1,13 +1,6 @@
 
 /**
  *
- * @author Felix Gallardo
- * ID: 108496237
- * Homework #3
- * CSE 214: Recitation Section 1
- * Recitation TA: Mohammad Mahdi Javanmard
- * Grading TA: Jian Xu
- *
  * The Request class holds the information of the request that the elevator object is
  * currently handling. Among that information is the elevator's source floor (where the elevator
  * started), the elevator's destination floor (where the elevator's headed), as well as the time
